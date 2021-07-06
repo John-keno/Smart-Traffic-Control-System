@@ -1,0 +1,2 @@
+# Smart-Traffic-Control-System
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/44ee15324a1c4db9a9df9fa5963ccca6)](https://app.codacy.com/gh/John-keno/Smart-Traffic-Control-System?utm_source=github.com&utm_medium=referral&utm_content=John-keno/Smart-Traffic-Control-System&utm_campaign=Badge_Grade_Settings)
